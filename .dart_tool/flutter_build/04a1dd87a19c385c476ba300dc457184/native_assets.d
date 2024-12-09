@@ -1,0 +1,1 @@
+ C:\\vsc\\weather\\english-dictionary\\.dart_tool\\flutter_build\\04a1dd87a19c385c476ba300dc457184\\native_assets.yaml: 
