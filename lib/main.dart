@@ -1,4 +1,3 @@
-import 'package:english_dictionary/DictionaryPage/dictionary_screen.dart';
 import 'package:english_dictionary/DictionaryPage/splash_screen.dart';
 import 'package:flutter/material.dart';
 
