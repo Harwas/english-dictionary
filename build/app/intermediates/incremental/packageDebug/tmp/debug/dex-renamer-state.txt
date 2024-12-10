@@ -1,8 +1,8 @@
-#Tue Dec 10 04:18:31 WIB 2024
-base.0=C\:\\Users\\BAPAJO\\Herd\\english-dictionary\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\BAPAJO\\Herd\\english-dictionary\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\BAPAJO\\Herd\\english-dictionary\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.3=C\:\\Users\\BAPAJO\\Herd\\english-dictionary\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+#Tue Dec 10 13:36:10 WIB 2024
+base.0=C\:\\vsc\\weather\\english-dictionary\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\vsc\\weather\\english-dictionary\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\vsc\\weather\\english-dictionary\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.3=C\:\\vsc\\weather\\english-dictionary\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=1/classes.dex

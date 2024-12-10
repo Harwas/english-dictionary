@@ -4,7 +4,7 @@
             "outputFile": "com.example.english_dictionary.app-mergeDebugResources-24:/values-mk/values-mk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\BAPAJO\\.gradle\\caches\\8.8\\transforms\\ea28b2ad6965209b6ecf9f3ec6ddd3c8\\transformed\\core-1.13.1\\res\\values-mk\\values-mk.xml",
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\8.8\\transforms\\83643c5a31ff9e1232755051d3c25128\\transformed\\core-1.13.1\\res\\values-mk\\values-mk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
