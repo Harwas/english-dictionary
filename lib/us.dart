@@ -65,7 +65,7 @@ class AboutUs extends StatelessWidget {
                     child: Column(
                       children: [
                         Text('K3522013'),
-                        Text('K35220'),
+                        Text('K3522031'),
                         Text('K3522065'),
                         Text('K3522073'),
                       ],
