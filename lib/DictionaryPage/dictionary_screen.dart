@@ -148,7 +148,7 @@ class _DictionaryHomePageState extends State<DictionaryHomePage> {
             ),
           ),
           Text(
-            setList!.toSet().toString().replaceAll("{", "").replaceAll("{", ""),
+            setList!.toSet().toString().replaceAll("{", "").replaceAll("}", ""),
             style: const TextStyle(
               fontSize: 18,
             ),
